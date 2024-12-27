@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @olaf294
-- 👀 I’m interested in minecraft
+- 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning something
 
 <!---
